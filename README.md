@@ -22,7 +22,7 @@ mainFOk(){
 
 ## Repository Structure
 
-### FOCUS
+### FUCOS
 - **code**: Contains files with `.foc` extension where the Fucos code exists. If the file extension is not `.foc`, an option to rename the file is provided.
 - **src**: Contains the source code for the Fucos compiler with the following files:
   - `foc.cpp`: Main compiler file.

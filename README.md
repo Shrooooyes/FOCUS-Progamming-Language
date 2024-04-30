@@ -1,6 +1,6 @@
 # Fucos Programming Language
 
-Fucos is a basic programming language built using C++. It utilizes semicolons (`;`) and dots (`.`) to denote the start and end of lines of code respectively. The execution begins from a `mainFOk` function, where the code block is enclosed within curly braces `{}`.
+Fucos is a basic programming language built using C++. It utilizes semicolons (`;`) and dots (`.`) to denote end of lines and end of scope in code respectively. The execution begins from a `mainFOk` function, where the code block is enclosed within curly braces `{}`.
 
 ## Syntax
 
